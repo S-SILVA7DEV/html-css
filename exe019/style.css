@@ -1,0 +1,41 @@
+@charset "UTF-8";
+
+
+body{
+    background-color: #99F0E0;
+    font-family: Arial, Helvetica, sans-serif;
+    
+
+}
+h1{
+    color: rgb(83, 129, 121);
+}
+#principal{
+    background-color: rgb(83, 129, 121);
+    color: white;
+    text-align: center;
+    margin: 2em, 10px;
+    border-radius: 10px;
+}
+p{
+    text-indent: 10px;
+    text-align: justify;
+}
+.aprendendo{
+    text-shadow: 2px 2px 15px black;
+    color: white;
+    text-align: center;
+}
+
+.basico{
+    color: #4886C7;
+}
+.intermediario{
+    color: #C76E48  ;
+}
+.avancado{
+    color: #876252;
+}
+h2{
+    color:#439C92;
+}
